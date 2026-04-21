@@ -1,0 +1,17 @@
+# Day 1
+
+- Python installation ✅
+- Basics of python practicing
+  - variables and data types
+  - type conversion
+  - control flow
+  - loops
+  - functions
+  - arguments
+  - variable scope
+  - datastructures
+  - File handling
+  - Error handling
+  - object oriented programming
+  - practice projects
+-
